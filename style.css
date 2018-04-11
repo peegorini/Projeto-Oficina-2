@@ -18,11 +18,11 @@
 }
 
 .div-jogo{
-    border: 1px solid black;
     width: auto;
     height: auto;
     text-align: center;
-    padding-bottom: 10px;
+    padding-bottom: 50px;
+    background-color: rgba(128, 128, 128, 0.055);
 }
 
 .padding-pesquisaProf{
@@ -35,6 +35,10 @@
 
 .text-muted{
     text-align: center;
+}
+
+.footer{
+  font-size: 14px;
 }
 /* Carossel CSS */
 
