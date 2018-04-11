@@ -40,6 +40,15 @@
 .footer{
   font-size: 14px;
 }
+
+.form-group label{
+    float: left;
+}
+
+#formulario{
+    margin-top: -55px;
+}
+
 /* Carossel CSS */
 
 /* Carousel base class */
