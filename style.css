@@ -49,6 +49,10 @@
     margin-top: -55px;
 }
 
+#textareaColabore{
+    resize: none;
+}
+
 /* Carossel CSS */
 
 /* Carousel base class */
